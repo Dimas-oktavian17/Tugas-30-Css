@@ -1,0 +1,15 @@
+.row .col.s12{
+    margin-right: 100px;
+}
+
+/*@media only screen and (min-width: 993px)*/
+.page-footer .container{
+    width: 100%;
+    
+}
+.row h5{
+    margin-left: 12px;
+}
+.footer-copyright .container{
+    margin: 10px;
+}
